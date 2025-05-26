@@ -1,17 +1,28 @@
-## 👋 Hi, I'm Paul!
-I’m a full-stack developer from Myanmar 🇲🇲, currently working through a 🎓 Graduate Diploma in Systems Analysis at NUS, Singapore 🇸🇬.
+## 👋 hi, i'm paul  
+🪴 full-stack developer from myanmar 🇲🇲  
+🌿 currently pursuing a graduate diploma in systems analysis @ nus, singapore 🇸🇬  
+🌱 graduated bsc in computing from the university of greenwich, uk 🇬🇧  
 
-I also studied 🎓 BSc Computing at the University of Greenwich, United Kingdom 🇬🇧.
+🌱 check out my portfolio: // TO BE ADDED
 
-When I’m not coding, I love playing the piano, snapping photos of nature’s little wonders, or messing around with Discord bots just for fun.   
+---
 
-🪴 Check out my portfolio: `// TO BE ADDED`
+### 🍃 interests  
+- ui/ux design  
+- machine learning  
+- 3d web development  
 
---- 
+---
 
-### 🌿 Technologies I Use
+### 🌼 hobbies  
+- 🎹 playing the piano  
+- 📷 taking photos of nature  
+- 🌵 building discord bots  
 
-**Web & Frameworks**
+---
+
+### 🌿 technologies i use
+
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)

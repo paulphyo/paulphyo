@@ -9,15 +9,16 @@
 
 ### 🍃 interests  
 - ui/ux design  
-- machine learning  
-- 3d web development  
+- machine learning & cloud  
+- web & 3d development (three.js)  
 
 ---
 
-### 🌼 hobbies  
-- 🎹 playing the piano  
-- 📷 taking photos of nature  
-- 🌵 building discord bots  
+### 🌲 favorite pastimes  
+- 🎹 playing piano  
+- 📷 capturing nature  
+- 📗 book digesting  
+- 🤖 building discord bots  
 
 ---
 

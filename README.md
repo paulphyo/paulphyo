@@ -3,7 +3,7 @@
 🌿 currently pursuing a graduate diploma in systems analysis @ nus, singapore 🇸🇬  
 🌱 graduated bsc in computing from the university of greenwich, uk 🇬🇧  
 
-🌱 check out my portfolio: // TO BE ADDED
+<!-- 🌱 check out my portfolio: // TO BE ADDED -->
 
 ---
 

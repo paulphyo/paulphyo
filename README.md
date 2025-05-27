@@ -1,13 +1,13 @@
-## 👋 hi, i'm paul  
-🪴 full-stack developer from myanmar 🇲🇲  
-🌿 currently pursuing a graduate diploma in systems analysis @ nus, singapore 🇸🇬  
-🌱 graduated bsc in computing from the university of greenwich, uk 🇬🇧  
+## 👋 hey, i'm paul!
+🪴 i'm a full-stack software engineer from myanmar 🇲🇲  
+🌿 right now i'm pursuing graduate diploma in systems analysis @ nus, singapore 🇸🇬  
+🌱 but before that, i graduated bsc in computing from the university of greenwich, uk 🇬🇧  
 
 <!-- 🌱 check out my portfolio: // TO BE ADDED -->
 
 ---
 
-### 🍃 interests
+### 🍃 my interests
 - ui/ux design  
 - machine learning & cloud  
 - web & 3d development (three.js)  

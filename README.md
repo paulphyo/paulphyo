@@ -14,10 +14,10 @@
 
 ---
 
-### 🌲 pasttimes i like
-- 🎹 playing the piano  
-- 📷 capturing nature moments  
-- 📗 digesting a book 
+### 🌲 things i love doing
+- 🎹 playing piano  
+- 📷 capturing nature's moments  
+- 📗 book digesting 
 - 🤖 tinkering discord bots  
 
 ---

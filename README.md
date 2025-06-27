@@ -47,13 +47,5 @@
 - machine learning & cloud  
 - web & 3d development (three.js)  
 
----
-
-### 🌲 my hobbies
-- 🎹 playing piano  
-- 📷 capturing nature  
-- 🤖 tinkering discord bots  
-
----
 
 

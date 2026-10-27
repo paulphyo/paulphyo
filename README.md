@@ -1,6 +1,6 @@
 ## 👋 hi, i'm paul
--  full-stack software engineer from myanmar 🇲🇲  
--  studying **graduate diploma in systems analysis @ nus**, singapore 🇸🇬
+-  cloud engineer from myanmar 🇲🇲  
+-  studied **graduate diploma in systems analysis @ nus**, singapore 🇸🇬
 -  graduated bsc in computing from the university of greenwich, uk 🇬🇧  
 
 <!-- 🌱 check out my portfolio: // TO BE ADDED -->
@@ -28,13 +28,4 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🍃 my interests
-- ui/ux design  
-- machine learning & cloud  
-- web & 3d development (three.js)  
-
-
 
